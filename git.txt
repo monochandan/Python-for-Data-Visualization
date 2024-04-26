@@ -1,0 +1,17 @@
+####### WORKED #############################
+## create master branch : git checkout -b master
+## git add .
+## git commit -m "commit message"
+## git push -u origin master
+#############################################
+
+##################### Updated file ##########
+git status
+git add .
+git commit -m "mssg"
+git push origin branch_name/master
+#############################################
+
+for powershell: Remove-Item -Path .git -Recurse -Force
+
+for bash : rm -rf .git 
