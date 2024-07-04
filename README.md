@@ -3,3 +3,4 @@
 Essential functionalities from 
 - Numpy
 - Panda
+- SeaBorn
